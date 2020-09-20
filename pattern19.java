@@ -45,3 +45,17 @@ public static void main(String args[]){
 }
 
 }
+
+/*
+
+input = 5;
+
+output:
+
+*	*	*		*
+		*		*
+*	*	*	*	*
+		*
+*		*	*	*
+
+*/
