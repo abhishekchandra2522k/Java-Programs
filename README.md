@@ -1,3 +1,5 @@
-## Java Programs <img src = "java.jpg" height = 50px width = 80px align = "right"/> 
+## Java Programs <img src = "java.png" height = 50px width = 80px align = "right"/> 
 
 This repository contains Java programs.
+
+Java is a class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.
