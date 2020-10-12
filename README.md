@@ -1,8 +1,8 @@
 ## Java Programs <img src = "java.png" height = 50px width = 50px align = "right"/> 
 
-Let's start with the basics of Java.
-
 If you already have command over C++ language i.e. Object Oriented Programming start <a href = " ">here</a>.
+
+Let's start with the basics of Java.
 
 #### Basics
 ###### What is Java?
