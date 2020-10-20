@@ -1,4 +1,4 @@
-## Java Programs <img src = "java.png" height = 50px width = 50px align = "right"/> 
+## Java Programs <img src = "java.png" height = 75px width = 50px align = "right"/> 
 
 If you already have command over C++ language i.e. Object Oriented Programming start <a href = " ">here</a>.
 
