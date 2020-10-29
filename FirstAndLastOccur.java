@@ -5,7 +5,7 @@ ending position of a given target value using "Modified Binary Search"
 Leetcode Link- https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 *******************************************************************************/
 import java.util.Scanner;
-public class Main
+public class FirstAndLastOccur
 {
     
     //finding first Occurrence
